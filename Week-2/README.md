@@ -1,5 +1,4 @@
-# CYART VAPT Team – Week 2
-
+# CyArt VAPT Team
 This repository contains Week 2 documentation for Vulnerability Assessment and Penetration Testing (VAPT).
 
 ## Contents
