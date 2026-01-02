@@ -20,7 +20,7 @@ sqlmap -u "http://192.168.8.144/dvwa/vulnerabilities/sqli/?id=1&Submit=Submit" \
 - Prepared SQL statements
 - Re-scan after patching
 
-## PTES Report (200 words)
+## Petesting Report
 The penetration test was conducted against the Damn Vulnerable Web Application (DVWA) hosted at 192.168.8.144, following the Penetration Testing Execution Standard (PTES). The engagement began with scoping and reconnaissance to identify exposed web application components. During the scanning and vulnerability analysis phase, the SQL Injection module within DVWA was identified as a potential attack surface.
 
 Exploitation was performed using the sqlmap automated tool with a valid authenticated session and low security configuration. The SQL injection vulnerability was successfully confirmed through time-based blind injection, as demonstrated by delayed server responses using crafted payloads. Further exploitation allowed enumeration of available databases on the target system, confirming unauthorized access to backend database resources.
@@ -29,6 +29,6 @@ Post-exploitation analysis demonstrated the potential impact of the vulnerabilit
 
 The vulnerability poses a significant risk to confidentiality and integrity due to improper input validation. Immediate remediation is recommended, including the use of prepared statements, proper input sanitization, and regular security testing. A follow-up scan should be conducted after applying fixes to ensure the vulnerability has been fully mitigated.
 
-## Non-Technical Summary (100 words)
-Critical vulnerabilities were identified that allow attackers to access sensitive data...
+## Non-Technical Summary
+Critical security vulnerabilities were identified during the assessment that could allow attackers to access sensitive application data without authorization. The most significant issue was a weakness in how the application handles user input, which enabled unauthorized interaction with the backend database. If exploited by a malicious actor, this vulnerability could result in data theft, data manipulation, or disruption of normal application functionality. No destructive actions were performed during testing; however, the findings demonstrate a high risk to the organization if left unaddressed. It is strongly recommended to apply secure coding practices, fix identified weaknesses, and conduct regular security testing to reduce the risk of future attacks.
 
