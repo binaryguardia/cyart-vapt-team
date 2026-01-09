@@ -32,7 +32,7 @@ sha256sum shadowed.txt
 ```
 <img width="1920" height="1080" alt="week3-log-and-integrity check" src="https://github.com/user-attachments/assets/78e3e2eb-e0db-4f86-9db7-aea970c2e0b4" />
 
-Conclusion
+## Conclusion
 
 Logs confirmed successful exploitation and privilege escalation,
 supporting the penetration test findings.
