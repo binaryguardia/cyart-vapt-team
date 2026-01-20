@@ -3,7 +3,7 @@
 Here I am using Kali Linux as the attacker machine and Metasploitable as the target machine.
 Both virtual machines are configured using VMware.
 
-<img width="1920" height="1080" alt="Screenshot at 2026-01-19 17-13-30" src="https://github.com/user-attachments/assets/9d833296-2f58-4002-aa41-54ef94c0b2ff" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71b9a6b0-2c7a-42e5-8f7a-873c51eefd1b" />
 
 This lab is created for learning and practicing penetration testing and vulnerability assessment in a safe environment.
 
