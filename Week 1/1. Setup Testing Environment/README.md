@@ -28,4 +28,4 @@ Configure both VMs on the same network (Host-only / NAT)
 Verify connectivity between attacker and target.
 
 ## References 
-kali:https://www.kali.org/get-kali/#kali-installer-images
+kali:https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-vmware-amd64.7z 
