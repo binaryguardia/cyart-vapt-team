@@ -18,10 +18,12 @@ Postman
 
 sqlmap
 
-## Vulnerability Log
-Test ID	Vulnerability	Severity	Target Endpoint
-008	BOLA	Critical	/api/users
-009	GraphQL Injection	High	/graphql
+## API Security Testing Results
+
+| Test ID | Vulnerability        | Severity | Target Endpoint |
+|--------|----------------------|----------|-----------------|
+| 008    | BOLA                 | Critical | /api/users     |
+| 009    | GraphQL Injection    | High     | /graphql       |
 
 ## Manual Testing
 
