@@ -47,8 +47,6 @@ Screenshots captured from MobSF static analyzer:
 
 <img width="1920" height="1080" alt="mobsf-3" src="https://github.com/user-attachments/assets/d4347072-3c79-45f7-aa77-e40431a405bd" />
 <img width="1920" height="1080" alt="mobsf-2" src="https://github.com/user-attachments/assets/8826f953-1640-4fa2-9d11-2d0e41d87db5" />
-<img width="1920" height="1080" alt="mobsf" src="https://github.com/user-attachments/assets/5673d446-8dd7-4a70-a04c-3efa0ada0978" />
-
 ---
 
 ## Static Analysis Log
