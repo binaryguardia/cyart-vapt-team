@@ -19,8 +19,11 @@ LinPEAS
 PowerSploit
 
 ## Privilege Escalation Log
-Task ID	Technique	Target IP	Status	Outcome
-010	SUID Exploit	192.168.8.155	Success	Root Shell
+
+| Task ID | Technique    | Target IP       | Status  | Outcome    |
+|--------|--------------|-----------------|---------|------------|
+| 010    | SUID Exploit | 192.168.8.155   | Success | Root Shell |
+
 
 ## Persistence
 
