@@ -20,9 +20,11 @@ OpenVAS
 
 Burp Suite
 
-## Exploitation Log
-Timestamp	Target IP	Vulnerability	PTES Phase
-2025-08-30 15:00:00	192.168.8.170	VSFTPD RCE	Exploitation
+## Exploitation Timeline
+
+| Timestamp            | Target IP       | Vulnerability | PTES Phase    |
+|---------------------|-----------------|---------------|---------------|
+| 2025-08-30 15:00:00 | 192.168.8.170   | VSFTPD RCE    | Exploitation  |
 
 ```
 use exploit/unix/ftp/vsftpd_234_backdoor
